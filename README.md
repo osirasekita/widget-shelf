@@ -7,7 +7,7 @@ VRCX nano の SideStore / AltStore 用ソースです（ソースコードのリ
 SideStore（または AltStore）の Sources に次の URL を追加してください。
 
 ```
-https://raw.githubusercontent.com/osirasekita/VRCXNano-dist/main/apps.json
+https://raw.githubusercontent.com/osirasekita/widget-shelf/main/apps.json
 ```
 
 追加すると一覧に VRCX nano が出るので、そこからインストールできます。
